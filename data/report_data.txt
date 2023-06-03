@@ -1,0 +1,10 @@
+[
+{"ticket_id": "94153", "problem_location": "Latitude: 37.87196, Longitude: -122.259094", "problem_type": "hardware", "summary": "Bot making weird noises and potential fire hazard", "bot_id": "12345", "status": "open"},
+{"ticket_id": "37763", "problem_location": "Latitude: 37.87196, Longitude: -122.259094", "problem_type": "hardware", "summary": "Bot making weird noises and potential fire hazard", "bot_id": "12345", "status": "open"},
+{"ticket_id": "15566", "problem_location": "Latitude: 37.87196, Longitude: -122.259094", "problem_type": "hardware", "summary": "Bot drove into a lake and is now floating", "bot_id": "12345", "status": "open"},
+{"ticket_id": "69375", "problem_location": "Latitude: 37.87196, Longitude: -122.259094", "problem_type": "hardware", "summary": "Bot unable to open door", "bot_id": "12345", "status": "open"},
+{"ticket_id": "76451", "problem_location": "Latitude: 37.87196, Longitude: -122.259094", "problem_type": "software", "summary": "Bot is not appearing on the map", "bot_id": "12345", "status": "open"},
+{"ticket_id": "66825", "problem_location": "Latitude: 37.87196, Longitude: -122.259094", "problem_type": "software", "summary": "Bot is not appearing on the map", "bot_id": "12345", "status": "open"},
+{"ticket_id": "89190", "problem_location": "Latitude: 37.87196, Longitude: -122.259094", "problem_type": "field", "summary": "Bot not found", "bot_id": "12345", "status": "open"},
+{"ticket_id": "98693", "problem_location": "Latitude: 37.87196, Longitude: -122.259094", "problem_type": "field", "summary": "Bot not found", "bot_id": "12345", "status": "open"},
+]
